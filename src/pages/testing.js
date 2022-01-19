@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function contact() {
+export default () => {
     return (
         <div>
-            testing contact
+            testinnggg!!
         </div>
     )
 }
